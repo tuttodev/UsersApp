@@ -2,7 +2,7 @@
 is a simple application that gets fake users from an api
 
 ![](images/screen_1.jpg)
-<img src="images/screen_1,jpg" width="600"/>
+<img src="images/screen_1.jpg" width="600"/>
 
 # Used Technologies
 - Kotlin
